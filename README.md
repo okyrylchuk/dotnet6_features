@@ -1,4 +1,4 @@
-# .NET 6 featues
+# .NET 6 features
 
 In this repo you can find my samples from Twitter about .NET 6 features
 
