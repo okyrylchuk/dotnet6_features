@@ -1,6 +1,6 @@
-# LINQ Improvements in .NET 6
+# LINQ Features in .NET 6
 
-The thread on Twitter with C# 10 features is by [link](https://twitter.com/okyrylchuk/status/1445465823938682881).
+The thread on Twitter with LINQ features is by [link](https://twitter.com/okyrylchuk/status/1445465823938682881).
 
 * [Override default value in '*OrDefault' methods.](https://github.com/okyrylchuk/dotnet6_features/tree/main/LINQ%20imrpovements/FirstOrDefault)
 * [New 'MinBy', 'MaxBy', 'DistinctBy', 'ExceptBy', 'IntersectBy', 'UnionBy' methods.](https://github.com/okyrylchuk/dotnet6_features/tree/main/LINQ%20imrpovements/ByLinqImprovements)
