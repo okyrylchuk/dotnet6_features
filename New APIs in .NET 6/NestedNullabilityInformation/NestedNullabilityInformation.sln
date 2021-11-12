@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedNullabilityInformation", "NestedNullabilityInformation\NestedNullabilityInformation.csproj", "{3CAFA09E-6BAD-48BA-8381-FED7D732C169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CAFA09E-6BAD-48BA-8381-FED7D732C169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAFA09E-6BAD-48BA-8381-FED7D732C169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAFA09E-6BAD-48BA-8381-FED7D732C169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAFA09E-6BAD-48BA-8381-FED7D732C169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6C98261-F163-4050-B021-8BB8CC2CED2A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel.ForEachAsync", "Parallel.ForEachAsync\Parallel.ForEachAsync.csproj", "{EC88076E-3382-4A63-BA79-A6D721A40236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC88076E-3382-4A63-BA79-A6D721A40236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC88076E-3382-4A63-BA79-A6D721A40236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC88076E-3382-4A63-BA79-A6D721A40236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC88076E-3382-4A63-BA79-A6D721A40236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1AEDFF2-4E23-47A8-87D8-3BDD5FEED926}
+	EndGlobalSection
+EndGlobal

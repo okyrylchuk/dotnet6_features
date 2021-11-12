@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptographically Secure Pseudorandom Number Generator", "Cryptographically Secure Pseudorandom Number Generator\Cryptographically Secure Pseudorandom Number Generator.csproj", "{574739A3-4D75-4698-96AA-23B2B20AB9FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{574739A3-4D75-4698-96AA-23B2B20AB9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574739A3-4D75-4698-96AA-23B2B20AB9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574739A3-4D75-4698-96AA-23B2B20AB9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574739A3-4D75-4698-96AA-23B2B20AB9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35ACAF8B-865B-4723-9826-A8C272FCAF30}
+	EndGlobalSection
+EndGlobal

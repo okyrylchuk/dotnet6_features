@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Faster_handling_of_structs_as_Dictionary_values</RootNamespace>
+  </PropertyGroup>
+
+</Project>
