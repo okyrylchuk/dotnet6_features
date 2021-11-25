@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translate Substring with single parameter", "Translate Substring with single parameter\Translate Substring with single parameter.csproj", "{500281EB-1592-4D62-A145-E0310C36889B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{500281EB-1592-4D62-A145-E0310C36889B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500281EB-1592-4D62-A145-E0310C36889B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500281EB-1592-4D62-A145-E0310C36889B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500281EB-1592-4D62-A145-E0310C36889B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3709E270-75DD-4CBC-9AB0-5C6562B6CE45}
+	EndGlobalSection
+EndGlobal
