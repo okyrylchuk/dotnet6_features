@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translate ToString on SQLite", "Translate ToString on SQLite\Translate ToString on SQLite.csproj", "{0E807032-2D2E-4CAD-8EFB-63600817ECF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E807032-2D2E-4CAD-8EFB-63600817ECF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E807032-2D2E-4CAD-8EFB-63600817ECF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E807032-2D2E-4CAD-8EFB-63600817ECF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E807032-2D2E-4CAD-8EFB-63600817ECF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C14D495-82DB-405C-AAA6-0A96BEB31CA7}
+	EndGlobalSection
+EndGlobal
