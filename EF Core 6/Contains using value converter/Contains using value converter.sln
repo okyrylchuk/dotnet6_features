@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contains using value converter", "Contains using value converter\Contains using value converter.csproj", "{B72A6559-DA4E-4677-8607-71B04D7C453A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B72A6559-DA4E-4677-8607-71B04D7C453A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72A6559-DA4E-4677-8607-71B04D7C453A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72A6559-DA4E-4677-8607-71B04D7C453A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72A6559-DA4E-4677-8607-71B04D7C453A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7D8CC50-6B4C-4B04-BE52-BF70D5CD450F}
+	EndGlobalSection
+EndGlobal
