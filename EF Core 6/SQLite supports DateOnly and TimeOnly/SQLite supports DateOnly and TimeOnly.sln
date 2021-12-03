@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLite supports DateOnly and TimeOnly", "SQLite supports DateOnly and TimeOnly\SQLite supports DateOnly and TimeOnly.csproj", "{0824D2C6-F857-4944-AE39-6C507D6423B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0824D2C6-F857-4944-AE39-6C507D6423B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0824D2C6-F857-4944-AE39-6C507D6423B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0824D2C6-F857-4944-AE39-6C507D6423B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0824D2C6-F857-4944-AE39-6C507D6423B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA8274DF-5422-4C41-8D16-BD831D353A33}
+	EndGlobalSection
+EndGlobal
