@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Savepoints in SQLite", "Savepoints in SQLite\Savepoints in SQLite.csproj", "{8D958FE6-FE0E-4313-9DB2-4A48D04C02FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D958FE6-FE0E-4313-9DB2-4A48D04C02FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D958FE6-FE0E-4313-9DB2-4A48D04C02FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D958FE6-FE0E-4313-9DB2-4A48D04C02FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D958FE6-FE0E-4313-9DB2-4A48D04C02FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA6F0ABA-D298-4C6C-B533-E0E4BF5C8D63}
+	EndGlobalSection
+EndGlobal
