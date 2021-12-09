@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cosmos time-to-live", "Cosmos time-to-live\Cosmos time-to-live.csproj", "{81DAE623-5D64-456A-9B4B-308CFFB0564C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81DAE623-5D64-456A-9B4B-308CFFB0564C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81DAE623-5D64-456A-9B4B-308CFFB0564C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81DAE623-5D64-456A-9B4B-308CFFB0564C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81DAE623-5D64-456A-9B4B-308CFFB0564C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54D9C561-828C-42FB-B4D8-080B1A5DA3FA}
+	EndGlobalSection
+EndGlobal
