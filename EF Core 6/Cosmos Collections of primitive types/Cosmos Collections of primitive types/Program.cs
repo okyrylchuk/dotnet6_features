@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿// https://twitter.com/okyrylchuk/status/1470147095017500673
+
+using Microsoft.EntityFrameworkCore;
 
 using var context = new ExampleContext();
 await context.Database.EnsureDeletedAsync();
