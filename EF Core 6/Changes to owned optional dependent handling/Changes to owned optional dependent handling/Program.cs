@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿// https://twitter.com/okyrylchuk/status/1473048788088541186
+
+using Microsoft.EntityFrameworkCore;
 
 #region Warning example
 using var context = new ExampleContext();
@@ -44,6 +46,8 @@ class ExampleContext : DbContext
         .UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=EFCore6OwnedDependentHandling");
 }
 #endregion
+
+// https://twitter.com/okyrylchuk/status/1473048798712807424
 
 #region Creating model error example
 //using var context = new ExampleContext();
