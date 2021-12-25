@@ -22,3 +22,4 @@ The thread on Twitter with new APIs is by [link](https://twitter.com/okyrylchuk/
 * [A new CreateAsyncScope method](https://github.com/okyrylchuk/dotnet6_features/tree/main/New%20APIs%20in%20.NET%206/CreateAsyncScope%20API)
 * [Simplified call patterns for cryptographic operations](https://github.com/okyrylchuk/dotnet6_features/tree/main/New%20APIs%20in%20.NET%206/NewSymmetricAlgorithmMethods)
 * [DateOnly and TimeOnly](https://github.com/okyrylchuk/dotnet6_features/tree/main/New%20APIs%20in%20.NET%206/DateOnlyTimeOnly)
+* [Time Zones Improvements](https://github.com/okyrylchuk/dotnet6_features/tree/main/New%20APIs%20in%20.NET%206/TimeZones)
