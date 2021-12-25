@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿// https://twitter.com/okyrylchuk/status/1466841625259397129
+
+using Microsoft.EntityFrameworkCore;
 
 using var context = new ExampleContext();
 

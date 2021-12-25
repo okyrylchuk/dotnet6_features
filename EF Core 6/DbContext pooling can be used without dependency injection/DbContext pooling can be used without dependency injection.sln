@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbContext pooling can be used without dependency injection", "DbContext pooling can be used without dependency injection\DbContext pooling can be used without dependency injection.csproj", "{38FB7E9E-544D-4033-8AC9-F446952EDB61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38FB7E9E-544D-4033-8AC9-F446952EDB61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FB7E9E-544D-4033-8AC9-F446952EDB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38FB7E9E-544D-4033-8AC9-F446952EDB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38FB7E9E-544D-4033-8AC9-F446952EDB61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4883E3FD-507B-4C39-9D3E-9352BF2C29D1}
+	EndGlobalSection
+EndGlobal

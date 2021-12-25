@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scaffold nullable reference types", "Scaffold nullable reference types\Scaffold nullable reference types.csproj", "{E61647C6-05CA-4733-88F8-37BA18B95C9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E61647C6-05CA-4733-88F8-37BA18B95C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61647C6-05CA-4733-88F8-37BA18B95C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61647C6-05CA-4733-88F8-37BA18B95C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61647C6-05CA-4733-88F8-37BA18B95C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DA99478-1B25-428E-BCD9-CB0D005BB628}
+	EndGlobalSection
+EndGlobal

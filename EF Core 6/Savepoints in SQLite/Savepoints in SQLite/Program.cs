@@ -1,4 +1,6 @@
-﻿using Microsoft.Data.Sqlite;
+﻿// https://twitter.com/okyrylchuk/status/1467975488052289536
+
+using Microsoft.Data.Sqlite;
 
 var dbPath = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "..\\..\\..\\Savepoints.db"));
 

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnicodeAttribute", "UnicodeAttribute\UnicodeAttribute.csproj", "{F7868715-C902-4729-8109-3BBDE212B47E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7868715-C902-4729-8109-3BBDE212B47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7868715-C902-4729-8109-3BBDE212B47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7868715-C902-4729-8109-3BBDE212B47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7868715-C902-4729-8109-3BBDE212B47E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7923B91-DB08-430E-B7B2-78C961A910B9}
+	EndGlobalSection
+EndGlobal

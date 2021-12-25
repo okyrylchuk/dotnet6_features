@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿// https://twitter.com/okyrylchuk/status/1467245380794556423
+
+using Microsoft.EntityFrameworkCore;
 
 class Person
 {

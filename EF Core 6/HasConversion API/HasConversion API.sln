@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasConversion API", "HasConversion API\HasConversion API.csproj", "{A9D41852-E2EB-418C-A814-389F8983A120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9D41852-E2EB-418C-A814-389F8983A120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D41852-E2EB-418C-A814-389F8983A120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D41852-E2EB-418C-A814-389F8983A120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D41852-E2EB-418C-A814-389F8983A120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C76497E0-B9D3-4F1E-8DF2-62DD98E1FB7A}
+	EndGlobalSection
+EndGlobal
