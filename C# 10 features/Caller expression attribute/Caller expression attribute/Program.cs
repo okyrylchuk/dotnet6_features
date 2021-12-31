@@ -1,4 +1,6 @@
-﻿using System.Runtime.CompilerServices;
+﻿// https://twitter.com/okyrylchuk/status/1476926159078182912
+
+using System.Runtime.CompilerServices;
 
 void TestMethod(object obj, [CallerArgumentExpression("obj")] string? message = null)
 {
