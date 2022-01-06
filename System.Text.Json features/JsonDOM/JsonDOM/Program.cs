@@ -14,7 +14,7 @@ Console.WriteLine(value); // Text
 int arrayItem = jNode["Array"][1].GetValue<int>();
 Console.WriteLine(arrayItem); // 5
                               // or
-arrayItem = jNode["Array"][1].GetValue<int>();
+arrayItem = (int)jNode["Array"][1];
 Console.WriteLine(arrayItem); // 5
 
 // Create a new JsonObject
