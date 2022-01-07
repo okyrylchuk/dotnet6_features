@@ -17,3 +17,4 @@ The thread on Twitter with C# 10 features is by [link](https://twitter.com/okyry
 * [Expression 'with' in anonymous types](https://github.com/okyrylchuk/dotnet6_features/tree/main/C%23%2010%20features/WithExpressionWithAnonymousTypes)
 * [Caller expression attribute](https://github.com/okyrylchuk/dotnet6_features/tree/main/C%23%2010%20features/Caller%20expression%20attribute)
 * [Custom string interplation handler](https://github.com/okyrylchuk/dotnet6_features/tree/main/C%23%2010%20features/Custom%20string%20interpolation%20handler)
+* [Improved definite assignment](https://github.com/okyrylchuk/dotnet6_features/tree/main/C%23%2010%20features/Improved%20definite%20assignment)
