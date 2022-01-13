@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Simpler indexing syntax", "Simpler indexing syntax\Simpler indexing syntax.fsproj", "{EB7E02DF-77C8-47F0-9793-ADFD254AF12D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB7E02DF-77C8-47F0-9793-ADFD254AF12D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7E02DF-77C8-47F0-9793-ADFD254AF12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7E02DF-77C8-47F0-9793-ADFD254AF12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7E02DF-77C8-47F0-9793-ADFD254AF12D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CA1F7F4-3264-4C7E-A85C-A2F0C7CA4193}
+	EndGlobalSection
+EndGlobal
