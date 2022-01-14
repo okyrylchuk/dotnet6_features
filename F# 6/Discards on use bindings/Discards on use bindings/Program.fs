@@ -1,4 +1,6 @@
-﻿open System
+﻿// https://twitter.com/okyrylchuk/status/1482089389832429574
+
+open System
 
 let disposable () = { new IDisposable with
                             member x.Dispose() = ()}
