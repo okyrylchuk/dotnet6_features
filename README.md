@@ -3,6 +3,7 @@
 In this repo you can find my samples from Twitter about .NET 6 features
 
 * [C# 10 features](https://github.com/okyrylchuk/dotnet6_features/tree/main/C%23%2010%20features)
+* [F# 6 features](https://github.com/okyrylchuk/dotnet6_features/tree/main/F%23%206)
 * [LINQ features](https://github.com/okyrylchuk/dotnet6_features/tree/main/LINQ%20imrpovements)
 * [System.Text.Json features](https://github.com/okyrylchuk/dotnet6_features/tree/main/System.Text.Json%20features)
 * [New APIs in .NET 6](https://github.com/okyrylchuk/dotnet6_features/tree/main/New%20APIs%20in%20.NET%206)
