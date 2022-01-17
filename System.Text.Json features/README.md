@@ -9,3 +9,4 @@ The thread on Twitter with System.Text.Json features is by [link](https://twitte
 * [IAsyncEnumerable support](https://github.com/okyrylchuk/dotnet6_features/tree/main/System.Text.Json%20features/IAsyncEnumerableSupport)
 * [Serialize and deserialize JSON data to/from a stream](https://github.com/okyrylchuk/dotnet6_features/tree/main/System.Text.Json%20features/SerializeStream)
 * [Work with JSON like a DOM](https://github.com/okyrylchuk/dotnet6_features/tree/main/System.Text.Json%20features/JsonDOM)
+* [Source generators](https://github.com/okyrylchuk/dotnet6_features/tree/main/System.Text.Json%20features/SourceGenerators)
