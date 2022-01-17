@@ -1,4 +1,6 @@
-﻿using System;
+﻿// https://twitter.com/okyrylchuk/status/1483206502274015234
+
+using System;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
