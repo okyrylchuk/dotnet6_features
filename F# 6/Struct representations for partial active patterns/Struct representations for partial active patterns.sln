@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Struct representations for partial active patterns", "Struct representations for partial active patterns\Struct representations for partial active patterns.fsproj", "{9AB33490-3B7B-4C4A-86E1-86E06AB64891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AB33490-3B7B-4C4A-86E1-86E06AB64891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB33490-3B7B-4C4A-86E1-86E06AB64891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB33490-3B7B-4C4A-86E1-86E06AB64891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB33490-3B7B-4C4A-86E1-86E06AB64891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A38BC87-7EDB-41EE-8E45-4D7625226912}
+	EndGlobalSection
+EndGlobal
