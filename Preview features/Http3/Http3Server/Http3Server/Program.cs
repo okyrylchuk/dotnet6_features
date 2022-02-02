@@ -8,8 +8,8 @@ builder.WebHost.ConfigureKestrel((context, options) =>
 {
     options.Listen(IPAddress.Any, 5001, listenOptions =>
     {
-            // Use HTTP/3
-            listenOptions.Protocols = HttpProtocols.Http3;
+        // Use HTTP/3
+        listenOptions.Protocols = HttpProtocols.Http1AndHttp2AndHttp3;
         listenOptions.UseHttps();
     });
 });
