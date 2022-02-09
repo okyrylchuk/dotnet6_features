@@ -7,5 +7,6 @@
 * [Formatting for binary numbers](https://github.com/okyrylchuk/dotnet6_features/tree/main/F%23%206/Formatting%20for%20binary%20numbers)
 * [Map has Keys and Values](https://github.com/okyrylchuk/dotnet6_features/tree/main/F%23%206/Map%20has%20Keys%20and%20Values)
 * [Additonal collection functions](https://github.com/okyrylchuk/dotnet6_features/tree/main/F%23%206/Additional%20collection%20functions)
+* [As pattern](https://github.com/okyrylchuk/dotnet6_features/tree/main/F%23%206/AsPattern)
 
 The page is in progress.
